@@ -1,5 +1,4 @@
-# Check folder Formation
-#Type ruby Formation/RubyConstructor.rb
+#Guide . arrays and loop
 
 arr = [1,2,3,4,5]
 
